@@ -1,0 +1,1 @@
+// HomePage.jsx placeholder for Soumya's portfolio React component
